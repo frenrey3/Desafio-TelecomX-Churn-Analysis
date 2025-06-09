@@ -1,5 +1,4 @@
 
----
 
 # 📊 Análisis de Evasión de Clientes - TelecomX LATAM
 
@@ -216,5 +215,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 <div align="center">
     <b>⭐ Si este proyecto te fue útil, ¡no olvides darle una estrella! ⭐</b>
     <br>
-    <i>Desarrollado con ❤️ para la comunidad de Data Science.</i>
+    <i>Desarrollado para la comunidad de Data Science.</i>
 </div>
