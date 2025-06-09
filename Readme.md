@@ -198,7 +198,7 @@ Las contribuciones son siempre bienvenidas. Si tienes ideas para mejorar el aná
 
 *Data Scientist & AI Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-enrique-reyes-fabi%C3%A1n-80572a138/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-reyes80)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frenrey3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frenrey3@gmail.com)
 
